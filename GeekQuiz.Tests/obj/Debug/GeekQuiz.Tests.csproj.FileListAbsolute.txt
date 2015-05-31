@@ -1,0 +1,5 @@
+C:\WebCampsTK\DEMO\DevTestCI\source\GeekQuiz.Tests\bin\Debug\GeekQuiz.Tests.dll
+C:\WebCampsTK\DEMO\DevTestCI\source\GeekQuiz.Tests\bin\Debug\GeekQuiz.Tests.pdb
+C:\WebCampsTK\DEMO\DevTestCI\source\GeekQuiz.Tests\obj\Debug\GeekQuiz.Tests.csprojResolveAssemblyReference.cache
+C:\WebCampsTK\DEMO\DevTestCI\source\GeekQuiz.Tests\obj\Debug\GeekQuiz.Tests.dll
+C:\WebCampsTK\DEMO\DevTestCI\source\GeekQuiz.Tests\obj\Debug\GeekQuiz.Tests.pdb
